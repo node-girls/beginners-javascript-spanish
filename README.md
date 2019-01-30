@@ -1,1 +1,2 @@
-# beginners-javascript-spanish
+# Initial page
+
