@@ -4,7 +4,7 @@
 
 ## ¿Qué es?
 
-Es un taller introductorio de JavaScript para principiantes donde los asistentes aprendeerán los fundamentos del lenguaje, llevando a cabo retos de código para consolidar los conocimientos adquiridos.
+Es un taller introductorio de JavaScript para principiantes donde las asistentes aprenderán los fundamentos del lenguaje, llevando a cabo retos de código para consolidar los conocimientos adquiridos.
 
 ## ¿Por qué JavaScript?
 
