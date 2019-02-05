@@ -1,6 +1,6 @@
 # Sección 5: Sentencias de control 'If/Else'
 
-Ahora vamos a ir agregando algo de lógica a nuestro código. Hast ahora, hemos estado imprimiendo en la consola lo mismo cada vez que ejecutamos el código. ¿Y si queremos escribir cosas diferentes dependiendo de algunas condiciones? En la programación tenemos algo algo que se conoce como una sentencias de control "if/else". Este tipo de sentencia de control comprueba condiciones y ejecuta distintas acciones dependiendo del resultado de las condiciones que recibidas.
+Ahora vamos a ir agregando algo de lógica a nuestro código. Hasta ahora, hemos estado imprimiendo en la consola lo mismo cada vez que ejecutamos el código. ¿Y si queremos escribir cosas diferentes dependiendo de algunas condiciones? En programación tenemos algo que se conoce como sentencias de control "if/else". Este tipo de sentencia de control comprueba condiciones y ejecuta distintas acciones dependiendo del resultado de las condiciones que recibidas.
 
 En JavaScript, la estructura de una sentencia de control "if/else" es así:
 
@@ -12,7 +12,7 @@ if (condición) {
 }
 ```
 
-Esto basicamente se traduce en "si esta condición es verdadera, haz esto, sino haz otra cosa".
+Esto básicamente se traduce en "si esta condición es verdadera, haz esto, sino haz otra cosa".
 
 ### Pruébalo
 
@@ -34,7 +34,7 @@ if (happy === true) {
 }
 ```
 
-Ahora, vamos a añadir que acciones queremos ejecutar cuando las condiciones se cumplen. Los comentarios sirven para explicar qué está pasando - una especie de pseudo código.
+Ahora, vamos a añadir qué acciones queremos ejecutar cuando las condiciones se cumplen. Los comentarios sirven para explicar qué está pasando; es una especie de pseudo código.
 
 ```js
 if (happy === true) {
@@ -46,19 +46,19 @@ if (happy === true) {
 }
 ```
 
-Vamos a ejecutar este código y ver qué pasa! (Recuerda que las variables tienen que estar declaradas al princípio del Repl). Intenta cambiar el valor de la variable de `true` a `false`.
+¡Vamos a ejecutar este código y ver qué pasa! (Recuerda que las variables tienen que estar declaradas al princípio del Repl). Intenta cambiar el valor de la variable de `true` a `false`.
 
 ### Mini reto
 
-Escribe una sentencia de control "if/else" que evalua si un número es par o impar. Si es un númoer par, debe imprimir la cadena `'par'`, y si es impar, la cadena `'impar'`.
+Escribe una sentencia de control "if/else" que evalúa si un número es par o impar. Si es un número par, debe imprimir la cadena `'par'`, y si es impar, la cadena `'impar'`.
 
-Para este reto, el uso del operador "modulo" - que se escribe así `%` - te puede ser útil. El operador modulo devuelve el resto después de dividir dos números. Por ejemplo:
+Para este reto, el uso del operador "módulo" - que se escribe así `%` - te puede ser útil. El operador modulo devuelve el resto después de dividir dos números. Por ejemplo:
 
 ```js
 13 % 2 === 1; // 13 dividido por 2 nos da un resto de  1
 100 % 10 === 0; // 100 dividido por 10 nos da un resto de 0
 ```
 
-Un número par tendrá un resto de 0 al ser divido por 2. Puedes leer más sobre el operador modulo [aquí](http://www.w3schools.com/js/js_operators.asp).
+Un número par tendrá un resto de 0 al ser divido por 2. Puedes leer más sobre el operador módulo [aquí](http://www.w3schools.com/js/js_operators.asp).
 
 ### [Ir a la Sección 6 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step06.md)
