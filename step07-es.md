@@ -59,4 +59,4 @@ Ejecuta este código. ¡Con suerte te dará la respuesta correcta! :)
 
 Escribe una función `multiply` que multiplica dos números. Debe recibir dos números como parámetros y devolver la respuesta correcta.
 
-### [Ir a la Sección 8 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step08.md)
+### [Ir a la Sección 8 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step08-es.md)
