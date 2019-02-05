@@ -1,6 +1,6 @@
 # Reto 2: escritoras famosas
 
-¿Sabías que también se puede crear un array de objetos? Hemos creado uno para ti a continuación. Itera el array asignado a la varibale 'escritoras' y para cada objeto escribe en la consola (`console.log()`) la siguiente frase:
+¿Sabías que también se puede crear un array de objetos? Hemos creado uno para tí a continuación. Itera por el array asignado a la varibale 'escritoras' y para cada objeto, escribe en la consola (`console.log()`) la siguiente frase:
 
 ```js
 'Hola, mi nombre es {nombre} {apellido}. Tengo {edad} años y trabajo como {profesion}.';
@@ -12,7 +12,7 @@ Ignora las llaves. Solo sirven para marcar las palabras que hay que reemplazar c
 'Hola, mi nombre es Virginia Woolf. Tengo 59 años, y trabajo como escritora.';
 ```
 
-Aquí tienes el array:
+Aquí tienes el array de objetos:
 
 ```js
 var escritoras = [
@@ -49,4 +49,4 @@ var escritoras = [
 
 Si quieres probar con otro reto, trata de hacer el `console.log()` de las escritoras que siguen vivas (viva: true).
 
-### [Ir al Reto 3 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge03.md)
+### [Ir al Reto 3 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/challenge03-es.md)
