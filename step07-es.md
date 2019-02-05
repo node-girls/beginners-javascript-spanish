@@ -43,7 +43,7 @@ function add(x, y) {
 add(2, 3);
 ```
 
-Ahora queremos sumar estos dos números, pero no basta con escribir `x + y` puesto que no hemos dicho a la función que queremos devolver algo. Aquí entra la declaración `return`. Normalmente esto es cómo se termina una función. El `return` especifica el valor que queremos que devuelva la función.
+Ahora queremos sumar estos dos números, pero no basta con escribir `x + y` puesto que no hemos dicho a la función que queremos que nos devuelva algo. Aquí entra la declaración `return`. Normalmente con `return` es como se termina una función. El `return` especifica el valor que queremos que devuelva la función.
 
 ```js
 function add(x, y) {
@@ -53,7 +53,7 @@ function add(x, y) {
 add(2, 3);
 ```
 
-Ejecuta este código. !Con suerte te dará la respuesta correcta!
+Ejecuta este código. ¡Con suerte te dará la respuesta correcta! :)
 
 ### Mini reto
 
