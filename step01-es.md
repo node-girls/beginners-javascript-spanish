@@ -28,4 +28,4 @@ Tal vez te estás preguntando porqué el código que has escrito termina con un 
 
 Intenta hacer un `console.log()` de otra cosa. Intenta hacer un `console.log()` de varias cosas a la vez. ¿Hay una diferencia entre comillas simples y comillas dobles? ¿Qué pasa cuando quitas las comillas? ¿Qué pasa cuando haces un `console.log()` de un número sin las comillas?
 
-### [Ir a la Sección 2 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step02.md)
+### [Ir a la Sección 2 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step02-es.md)
