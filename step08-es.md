@@ -12,33 +12,34 @@ Se puede usar un array para almacenar cualquier tipo de dato: cadenas, números,
 
 ## Pruébalo
 
-Se define un array como una variable de esta manera:
+Definimos un array como una variable, de esta manera:
 
 ```js
 var animales = ['tigre', 'perro', 'serpiente', 'llama'];
 ```
 
-¡Mola! Ahora tienes todos los animales juntos en un grupo y no has tenido que crear una variable para cada uno por separado. Puedes ver cuantos animales hay usando el método `.length`:
+¡Mola! Ahora tienes todos los animales juntos en un grupo y no has tenido que crear una variable para cada uno por separado. Puedes ver cuántos animales hay en tu array usando el método `.length`:
 
 ```js
 console.log(animales.length);
 ```
 
-Si quieres referirte a un elemento específico del array, puedes usar su "número de índice" así:
+Si quieres referirte a un elemento específico del array, puedes usar su "índice o posición" así:
 
 ```js
 console.log(animales[1]);
 ```
 
-Adivina cual de los animales se imprime en la consola.
+Adivina cuál de los animales del array se imprime en la consola.
 
-Spoiler: va a imprimir "puppy". Eso parece raro hasta que sepas que JavaScript es un lenguaje de tipo "0-índice". Esto significa simplemente que JavaScript empìeza a contar en 0. Así que `animales[0]` imprime "tigre". No hacemos las reglas...
+Spoiler: va a imprimir "perro". Eso te parecerá raro hasta que aprendas que JavaScript es un lenguaje de tipo "índice-0". 
+Esto significa simplemente que JavaScript empieza a contar desde 0 los elementos de un array. Así que `animales[0]` imprimirá "tigre". Nosotras no hacemos las reglas ;)...
 
 ## Mini reto
 
 ¿Cómo harías un `console.log()` del nombre de cada anaimal en el array?
 
-Si estás pensando en usar un bucle "for, has acertado. Esta es la oportunidad perfecta para usar nuestros nuevos conocimientos para resolver un problema.
+Si estás pensando en usar un bucle "for" has acertado. Esta es la oportunidad perfecta para usar tus nuevos conocimientos para resolver un problema.
 
 Si te atascas, usa Google para encontrar la respuesta. Saber hacer búsquedas en Google es una parte fundamental de la vida de una desarrolladora.
 
