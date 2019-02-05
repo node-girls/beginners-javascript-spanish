@@ -1,6 +1,6 @@
 # Sección 3: Comentarios
 
-A veces querrás añadir una nota en tu código. Los comentarios pueden ser útiles para recordar la lógica implementada y la terminología usada, haciendo que otras personas puedan entender tu código más facilmente.
+A veces querrás añadir una o varias notas en tu código. Los comentarios pueden ser útiles para recordar la lógica implementada y la terminología usada, haciendo que otras personas puedan entender tu código más facilmente.
 
 ### Pruébalo
 
@@ -21,6 +21,6 @@ console.log(typeof 'Hola mundo!'); // checking type of hola mundo
 
 ### Mini reto
 
-Ahora añade algunos comentarios útiles al código que escribiste en la última sección. Ejecuta el código para asegurarte que no hayas roto nada!
+Ahora añade algunos comentarios útiles al código que escribiste en la última sección y ¡ejecuta el código para asegurarte de que no has roto nada! :)
 
 ### [Ir a la Sección 4 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step04.md)
