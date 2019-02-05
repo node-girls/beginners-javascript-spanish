@@ -42,4 +42,4 @@ Debes ver `string` impreso en la consola. Eso es por que 'Hola mundo!' es del ti
 
 Ahora, intenta eso tres veces, una para cada tipo de datos. Escribe a la consola el `typeof` tres valores diferentes: `"node girls"`, `1234` y `false`. La salida debe ser diferente para cada uno.
 
-### [Ir a la sección 3 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step03.md)
+### [Ir a la sección 3 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step03-es.md)
