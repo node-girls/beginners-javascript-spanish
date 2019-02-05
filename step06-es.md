@@ -47,4 +47,4 @@ Fíjate que se asigna el número `1` a la variable `i` ya que queremos empezar a
 
 Escribe un bucle "for" que itera de 0 a 100, imprimiendo solo los números pares (incluyendo 0). Debe devolver `0, 2, 4, 6, 8, 10...`.
 
-### [Ir a la Sección 7 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step07.md)
+### [Ir a la Sección 7 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step07-es.md)
