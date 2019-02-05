@@ -17,28 +17,28 @@ Aquí tienes el array:
 ```js
 var escritoras = [
   {
-    nobre: 'Virginia',
+    nombre: 'Virginia',
     apellido: 'Woolf',
     profesion: 'escritora',
     edad: 59,
     viva: false
   },
   {
-    nobre: 'Zadie',
+    nombre: 'Zadie',
     apellido: 'Smith',
     profesion: 'escritora',
     edad: 41,
     viva: true
   },
   {
-    nobre: 'Jane',
+    nombre: 'Jane',
     apellido: 'Austen',
     profesion: 'escritora',
     edad: 41,
     viva: false
   },
   {
-    nobre: 'Bell',
+    nombre: 'Bell',
     apellido: 'Hooks',
     profesion: 'escritora',
     edad: 64,
@@ -47,6 +47,6 @@ var escritoras = [
 ];
 ```
 
-Si quieres otro reto, trata de hacer el `console.log()` de las escritoras que siguen vivas (viva: true).
+Si quieres probar con otro reto, trata de hacer el `console.log()` de las escritoras que siguen vivas (viva: true).
 
 ### [Ir al Reto 3 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge03.md)
