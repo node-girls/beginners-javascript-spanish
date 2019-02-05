@@ -43,4 +43,4 @@ Si estás pensando en usar un bucle "for" has acertado. Esta es la oportunidad p
 
 Si te atascas, usa Google para encontrar la respuesta. Saber hacer búsquedas en Google es una parte fundamental de la vida de una desarrolladora.
 
-### [Ir a la Sección 9 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step09.md)
+### [Ir a la Sección 9 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step09-es.md)
