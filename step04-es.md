@@ -32,4 +32,4 @@ Ahora que sabes cómo crear variables, vuelve a escribir este código. Esta vez,
 
 ¿Devuelve lo mismo el código refactorizado?
 
-### [Ir a la Sección 5 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step05.md)
+### [Ir a la Sección 5 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step05-es.md)
