@@ -61,4 +61,4 @@ Para este reto, el uso del operador "módulo" - que se escribe así `%` - te pue
 
 Un número par tendrá un resto de 0 al ser divido por 2. Puedes leer más sobre el operador módulo [aquí](http://www.w3schools.com/js/js_operators.asp).
 
-### [Ir a la Sección 6 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step06.md)
+### [Ir a la Sección 6 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step06-es.md)
