@@ -19,3 +19,5 @@ encontrarAguja(pajar);
 ```js
 'La aguja se ha encontrado en la posición 2';
 ```
+
+### [¿Quieres hacer un repaso? Empezar de nuevo! >>>>](https://github.com/node-girls/beginners-javascript-spanish)
