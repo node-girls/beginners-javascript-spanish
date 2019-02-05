@@ -22,4 +22,4 @@ A continuación puedes ver un ejemplo de cómo sería contar de 1 a 15:
 ('FizzBuzz');
 ```
 
-### [Ir al Reto 5 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/challenge05.md)
+### [Ir al Reto 5 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/challenge05-es.md)
