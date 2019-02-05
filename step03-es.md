@@ -23,4 +23,4 @@ console.log(typeof 'Hola mundo!'); // checking type of hola mundo
 
 Ahora añade algunos comentarios útiles al código que escribiste en la última sección y ¡ejecuta el código para asegurarte de que no has roto nada! :)
 
-### [Ir a la Sección 4 >>>>](https://github.com/node-girls/beginners-javascript/blob/master/step04.md)
+### [Ir a la Sección 4 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step04-es.md)
