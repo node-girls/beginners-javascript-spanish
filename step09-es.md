@@ -55,4 +55,4 @@ console.log('Mi ' + animal.especie + 'se llama ' + animal.nombre + '.');
 
 No te olvides incluir espacios donde hagan falta.
 
-### [Ir al Challenge 1 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/challenge01-es.md)
+### [Ir al Reto 1 >>>>](https://github.com/node-girls/beginners-javascript-spanish/blob/master/challenge01-es.md)
