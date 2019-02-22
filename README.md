@@ -1,10 +1,4 @@
-# Initial page
-
-![](https://github.com/node-girls/workshop-cms/blob/master/readme-images/logo.png?raw=true)
-
-## Taller Introductorio de JavaScript
-
-### ¿Qué es?
+# ¡Bienvenidas!
 
 Es un taller introductorio de JavaScript para principiantes donde las asistentes aprenderán los fundamentos del lenguaje, llevando a cabo retos de código para consolidar los conocimientos adquiridos.
 
@@ -18,7 +12,5 @@ El taller se divide en varias secciones. En cada sección, verás un concepto nu
 
 ### Dónde Ejecutar Tu Código
 
-Cuando escribes tu código, vas a necesitar ver lo que hace. Para esto, tendrás que "ejecutarlo" en algún sitio. Hay varias maneras de hacerlo, pero para no complicarnos hoy, vamos a usar la herramienta [Repl.it](https://repl.it/). Crea una cuenta y empieza un proyecto nuevo en su página. Asegúrate de eligir JavaScript como el lenguaje para el proyecto creado.
-
-#### [Ir a la Sección 1 &gt;&gt;&gt;&gt;](https://github.com/node-girls/beginners-javascript-spanish/blob/master/step01-es.md)
+Cuando escribes tu código, vas a necesitar ver lo que hace. Para esto, tendrás que "ejecutarlo" en algún sitio. Hay varias maneras de hacerlo, pero para no complicarnos hoy, vamos a usar la herramienta [Repl.it](https://repl.it/). Crea una cuenta y empieza un proyecto nuevo en su página. Asegúrate de elegir JavaScript como el lenguaje para el proyecto creado.
 
